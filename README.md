@@ -3,7 +3,7 @@ Fivem Addon Cars: Fast And Furious (6 Cars)
 
 How to Install this pack:
 
-Add the fastandfurious55 folder to your resource folder.
+Add fastandfurious55 folder to your resource folder.
 
 Add "start fastandfurious55" in your server.cfg
 
